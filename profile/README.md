@@ -4,7 +4,7 @@
 
 ## Репозитории в коллекции
 
-### 1. [common](https://github.com/birdman93/common)
+### 1. [common](https://github.com/birdman-s-templates/common)
 **Кросспроектная библиотека с общими обвязками**
 
 Общая библиотека, которая обеспечивает переиспользуемые компоненты для всех других репозиториев.
@@ -37,7 +37,7 @@
 
 ---
 
-### 2. [functional-test-template](https://github.com/birdman93/functional-test-template)
+### 2. [functional-test-template](https://github.com/birdman-s-templates/functional-test-template)
 **Пример функционального тестирования REST API сервиса, предназначенного для создания kafka-to-kafka потоков**
 
 **Стек:**
@@ -59,7 +59,7 @@ tests/
 
 ---
 
-### 3. [load-test-template](https://github.com/birdman93/load-test-template)
+### 3. [load-test-template](https://github.com/birdman-s-templates/load-test-template)
 **Пример скрипта для нагрузочного тестирования GraphQL API**
 
 Готовый к использованию шаблон для нагрузочного тестирования GraphQL эндпоинтов с использованием **Locust**.
@@ -78,7 +78,7 @@ tests/
 
 ---
 
-### 4. [generator-for-the-load-stand](https://github.com/birdman93/generator-for-the-load-stand)
+### 4. [generator-for-the-load-stand](https://github.com/birdman-s-templates/generator-for-the-load-stand)
 **Генератор синтетических данных для нагрузочного стенда**
 
 Специализированный инструмент для создания и подготовки синтетических данных для нагрузочного тестирования.
